@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Router-Project-STUDY-NOTION/static/css/main.c2b7f958.css",
+    "main.js": "/React-Router-Project-STUDY-NOTION/static/js/main.b0e713be.js",
+    "static/media/signup.png": "/React-Router-Project-STUDY-NOTION/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/React-Router-Project-STUDY-NOTION/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/React-Router-Project-STUDY-NOTION/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/React-Router-Project-STUDY-NOTION/static/media/Logo.fd896773ef070a122541fd8722efa10f.svg",
+    "index.html": "/React-Router-Project-STUDY-NOTION/index.html",
+    "main.c2b7f958.css.map": "/React-Router-Project-STUDY-NOTION/static/css/main.c2b7f958.css.map",
+    "main.b0e713be.js.map": "/React-Router-Project-STUDY-NOTION/static/js/main.b0e713be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2b7f958.css",
+    "static/js/main.b0e713be.js"
+  ]
+}
